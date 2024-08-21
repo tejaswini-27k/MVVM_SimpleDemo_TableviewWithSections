@@ -1,0 +1,84 @@
+{
+    "Data": [
+        {
+            "fruitImage": "Fruits",
+            "listData": [
+                {
+                    "image": "Apples",
+                    "title": "Apples"
+                },
+                {
+                    "image": "Cantaloupe",
+                    "title": "Cantaloupe"
+                },
+                {
+                    "image": "Crab_apples",
+                    "title": "Crab_apples"
+                },
+                {
+                    "image": "Cucumbers",
+                    "title": "Cucumbers"
+                },
+                {
+                    "image": "Apricots",
+                    "title": "Apricots"
+                },
+                {
+                    "image": "Dragon",
+                    "title": "Dragon"
+                },
+                {
+                    "image": "Avocados",
+                    "title": "Avocados"
+                },
+                {
+                    "image": "Elderberry",
+                    "title": "Elderberry"
+                },
+                {
+                    "image": "IndianFig",
+                    "title": "IndianFig"
+                }
+            ]
+        },
+        {
+            "fruitImage": "Avocados",
+            "listData": [
+                {
+                    "image": "Avocados_1",
+                    "title": "Avocados_1"
+                },
+                {
+                    "image": "Avocados",
+                    "title": "Avocados"
+                }
+            ]
+        },
+        {
+            "fruitImage": "Dragon",
+            "listData": [
+                {
+                    "image": "Dragon",
+                    "title": "Dragon"
+                }
+            ]
+        },
+        {
+            "fruitImage": "Mangoes",
+            "listData": [
+                {
+                    "image": "Mango_1",
+                    "title": "Mango_1"
+                },
+                {
+                    "image": "Mango_2",
+                    "title": "Mango_2"
+                },
+                {
+                    "image": "Mango_3",
+                    "title": "Mango_3"
+                }
+            ]
+        }
+    ]
+}
